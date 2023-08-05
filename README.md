@@ -30,7 +30,7 @@ Black -> wall node
 
 Hscore -> distance from a node to end
 
-Gscore -> distance from a node to start
+Gscore -> "time" since start of animation
 
 Fscore -> total score
 
